@@ -1,7 +1,7 @@
 ## Hi 👋 I'M Kailash Chamalwad
 
 # 💫 About Me: 
-I'm Currently working on Full Stack Java development<br>I'm Currently Learning Java, Hibernate, Spring Boot, JavaScript and React
+# I'm Currently working on Full Stack Java development<br>I'm Currently Learning Java, Hibernate, Spring Boot, JavaScript and React
 <br><br>🚀 Current Focus<br><br>💻 Data Structures & Algorithms | Object-Oriented Programming<br>📚 Learning Full Stack Development & preparing for Software Engineer roles<br>🎨 Creativity fuels me — from painting and sketching to upcycling art<br>🚴‍♂️ In my free time, I love riding bikes and exploring new places<br>📚 Preparing for roles like Java Developer, Full Stack Developer, and SDE<br>💻 Working on real-time projects and improving backend development skills<br>🧠 Building a strong foundation in DSA, System Design, and clean code practices
 
 
